@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "hdbscan",
+  "versions": [
+    {
+      "commit": "bb01526bf18c92e35ca0b4f5307c6d4248ddf5dc",
+      "tag": "",
+      "parsed_at": "2026-10-17T06:21:50.746930+00:00"
+    }
+  ]
+}
